@@ -103,3 +103,26 @@ Requisitos do Cliente.
   - Descrevem as características desejáveis de uma solução.
   - Deslimitam o universo de soluções possíveis (domínio), ao invés de uma solução específica.
   - Também chamadas de requisitos de usuário.
+
+
+Documentos associados ao requisito de usuário.
+
+  - Proposta técnica
+  - Documento de visão
+  - Lista de funcionalidades.
+
+
+Requisitos de Sistema.
+  - Descrevem o comportamento de sistema de computacão apresentado como solucão para o problema do cliente.
+  - Uma escolha dentro do domínio delimitado.
+  - Delimitam as interfaces de um sistema que soluciona o problema.
+  - Também chamados de requisitos de produtos.
+
+
+Documentações de requisito de sistema.
+
+  - Documentos detalhados de requisitos.
+  - Casos de uso (modelagem de detralhamento)
+  - Diagrama de estado e diagramas de sequeência.
+  - Protótipos.
+  - Mapas de navegação.
