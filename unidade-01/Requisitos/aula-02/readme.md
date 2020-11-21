@@ -38,7 +38,7 @@ Por que requisitos são importantes, e o que podem acarretar por mal formulaçã
   9. Gerenciamento de contratos.
 
 
-Quando há descoberta de falhas ainda na modelagem de requisitos tende a ser mais baixo o custo para correção e assim nossa operação fica mais barata caso contrário chega a inviabilidade o negocio por questão de:
+Quando há descoberta de falhas ainda na modelagem de requisitos tende a ser mais baixo o custo para correção e assim nossa operação fica mais barata caso contrário chega a inviabilizar o software por questão de:
 
   - Tempo de desenvolvimento.
   - Custo aplicado na operação para correção ou novas funcionabilidades.
