@@ -32,6 +32,7 @@ A arquitetura era pode ainda  auxiliar na estimativa de custo e no gerenciamento
 Algumas perguntas referente arquitetura e seus fundamentos para uma empresa, que são:
 
   1. Existe uma arquitetura genérica que pode atuar como modelo para o sistema ?
+     
       Em organizações onde temos um desenvolvimento de software muito parecidos para todos os projetos vale ter uma arquitetura genérica pois o contexto sempre é semelhante como por exemplo:
         - Software para desktop
         - Software para Web
@@ -39,23 +40,29 @@ Algumas perguntas referente arquitetura e seus fundamentos para uma empresa, que
         - Arquitetura para o Java
         - Arquitetura para o Dotnet
   2. Como o sistema será distribuído ?
+      
       São perguntas que podemos levar em considerações para o sistema distribuído que são:
         - É um sistema que irá rodar em uma maquina só (monolito)
         - É um sistema cliente servidor.
         - Teremos varios usários ?
   3. Que padrões ou estilos de arquitetura podem ser usados ?
+      
       Podemos abordar com soluções ja conhecidas se for o caso utilizando o reuso.
 
   4. Como componentes serão decompostos ?
+      
       Primeiramente pensa em arquiteutra de forma mais amplas e devemos pensar nas decisões de componentes menores entendendo de forma melhor, seria a problemática.
   
   5. Qual a melhor organização da arquitetura para satisfazer requisitos não funcionais ?
+     
       É muito importante que os requisitos não funcionais devem ter sido reconhecidos antes da criação da arquitetura, claro que arquitetura pode contribuir para outros
     requisitos funcionais, mas nesse momento eles precisam ser conhecidos.
   
   6. Como o projeto de arquitetura será avaliado ?
+      
       É necessario ter algum tipo de arquitetura validas para arquitetura do projeto, é necessário ter algo de validação com o próprio cliente.
       Precisamos criar alguma prova de conceito para validação da arquitetura de software.
 
   7. Como a arquitetura deve ser documentada ?
+      
       Precisamos se preocupar com a documentação caso essa documentação tb seja de referência para uso e reuso do software.
