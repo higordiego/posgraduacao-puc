@@ -49,3 +49,7 @@ Existe um relatório na área de software chamado de "relatorio do caos" esse re
 Segue abaixo relatorio do caos:
 
 <img src="./relatorio-caos.png">
+
+site: 
+  - https://www.standishgroup.com/sample_research
+  - http://tiny.cc/l6lllz
