@@ -13,3 +13,4 @@ Nesta videoaula, iremos conhecer um pouco mais sobre o trabalho de um Arquiteto 
 ## Resumo
   - [O arquiteto de Software](./O_arquiteto_de_Software/readme.md)
   - [Requisitos](./Requisitos/readme.md)
+  - [Diagramas UML](./Diagramas_UML/readme.md)
