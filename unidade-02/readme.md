@@ -10,3 +10,5 @@ Para compreender as atividades de um Arquiteto de Software em processos tradicio
 
 ## Resumo
   - [Documento de Arquitetura](./documento_arquitetura/readme.md)
+  - [Arquitetura Mps.br](./arquitetura_mps.br/readme.md)
+  - [Topico de Arquitetura](./topic_arquitetura/readme.md)
