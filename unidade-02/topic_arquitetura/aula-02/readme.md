@@ -12,5 +12,7 @@ Inspeção de software de verificação.
       - identificar a origem do defeito.
       - Reduz certa de 60% a 90% dos defeitos.
       - Reduz retrabalho em cerca de 40%.
+      - Aumenta produtividade.
+
 
 
