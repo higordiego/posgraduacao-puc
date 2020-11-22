@@ -5,7 +5,7 @@
 ## Resumo.
 
 O que é o RUP ?
-  - No Ruop, a arquitetura de software (em um determinado ponto) é a organização ou estrutura dos componentes significativos do sistema que interagem por meio de interfaces,
+  - No Rup, a arquitetura de software (em um determinado ponto) é a organização ou estrutura dos componentes significativos do sistema que interagem por meio de interfaces,
   com elementos constituídos de componentes e interfaces sucessivamente menores.
 
 **O rup parte da ideia que o desenvolvimento interativo e incremental**
