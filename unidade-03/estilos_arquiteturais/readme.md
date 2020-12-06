@@ -11,3 +11,4 @@ Objetivos
   - [Aula 02](./aula-02/readme.md)
   - [Aula 03](./aula-03/readme.md)
   - [Aula 04](./aula-04/readme.md)
+  - [Aula 05](./aula-05/readme.md)
