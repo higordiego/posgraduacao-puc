@@ -4,4 +4,8 @@
 ## Descrição.
 
 ## Resumo.
-  - Arquitetura móveis.
+  - Caracteristica de dispositivos móveis.
+    - portabilidade
+    - usabilidade
+    - funcionalidade
+    - conectividade.
